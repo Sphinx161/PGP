@@ -4,10 +4,10 @@ Pretty Good Privacy (PGP) is an encryption program that provides cryptographic p
 
 A a user friendly script that you can use to:
  
- Generate keys
+ [+]Generate keys
  
- Encrypt files
+ [+]Encrypt files
  
- Decrypt files
+ [+]Decrypt files
  
- Export your public key via email
+ [+]Export your public key via email
